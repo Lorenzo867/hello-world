@@ -1,3 +1,3 @@
 # hello-world
-A Repository
-
+A Repositoryreadme-edits
+My name is Lorenzo, I'm a DJ/Producer
